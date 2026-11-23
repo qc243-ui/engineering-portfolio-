@@ -3,7 +3,7 @@ layout: default
 title: Leaf Blower Functional Mechanical Dissection
 ---
 
-# Leaf Blower — Functional Mechanical Dissection (FMD)
+# Leaf Blower — Fluid Mechanical Dissection (FMD)
 
 **Course:** MAE 3230
 

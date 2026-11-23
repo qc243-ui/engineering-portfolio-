@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Leaf Blower Functional Mechanical Dissection
+title: Leaf Blower Fluid Mechanical Dissection
 ---
 
 # Leaf Blower — Fluid Mechanical Dissection (FMD)

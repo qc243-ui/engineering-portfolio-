@@ -36,7 +36,7 @@ permalink: /cv/
 <div class="cv-container">
   <h1>Curriculum Vitae</h1>
   <p>View or download my CV below.</p>
-  <a class="cv-button" href="{{ '/assets/Lisa_Chen_Resume26.pdf' | relative_url }}" target="_blank">
+  <a class="cv-button" href="{{ '/assets/Lisa2026resume.pdf.pdf' | relative_url }}" target="_blank">
     Download my CV
   </a>
 </div>
